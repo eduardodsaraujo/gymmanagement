@@ -16,7 +16,6 @@ A Gym Management System built using Spring Boot with an H2 in-memory database, d
 - **Spring Data JPA**
 - **Hibernate**
 - **H2 Database** (in-memory)
-- **Spring Security**
 - **Swagger/OpenAPI 3**
 - **Maven**
 
