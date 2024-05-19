@@ -11,8 +11,8 @@ A Gym Management System built using Spring Boot with an H2 in-memory database, d
 
 ## Technologies Used
 
-- **Java 11**
-- **Spring Boot 2.5**
+- **Java 17**
+- **Spring Boot 3.2.5**
 - **Spring Data JPA**
 - **Hibernate**
 - **H2 Database** (in-memory)
@@ -24,7 +24,7 @@ A Gym Management System built using Spring Boot with an H2 in-memory database, d
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven 3.6 or higher
 - Git
 
