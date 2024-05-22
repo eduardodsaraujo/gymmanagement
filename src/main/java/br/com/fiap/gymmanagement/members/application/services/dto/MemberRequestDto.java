@@ -40,4 +40,5 @@ public class MemberRequestDto {
 
     @NotBlank(message = "Please, provide a postalcode.")
     private String postalCode;
+
 }

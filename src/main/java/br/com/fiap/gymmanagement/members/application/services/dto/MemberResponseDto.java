@@ -17,4 +17,5 @@ public class MemberResponseDto {
     private String city;
     private String state;
     private String postalCode;
+
 }

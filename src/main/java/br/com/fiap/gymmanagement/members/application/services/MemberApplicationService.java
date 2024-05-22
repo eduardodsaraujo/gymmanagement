@@ -13,5 +13,4 @@ public interface MemberApplicationService {
     MemberResponseDto update(MemberRequestDto memberRequestDto, Integer memberId);
     void delete(Integer id);
 
-
 }

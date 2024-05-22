@@ -23,4 +23,5 @@ public class ApiErrorMessage {
         this.status = status;
         errors = Arrays.asList(error);
     }
+
 }

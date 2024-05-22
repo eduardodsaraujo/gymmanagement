@@ -22,6 +22,7 @@ public class MemberController {
 
     private MemberApplicationService memberApplicationService;
 
+
     @PostMapping()
     @Operation(summary = "Add a new member", description = "Create a new member and store it in the database")
     public ResponseEntity<MemberResponseDto> create

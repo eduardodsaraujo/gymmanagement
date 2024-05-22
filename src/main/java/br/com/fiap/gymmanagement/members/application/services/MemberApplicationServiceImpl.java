@@ -59,4 +59,5 @@ public class MemberApplicationServiceImpl implements MemberApplicationService{
         Member member = memberRepository.findById(id).get();
         memberRepository.delete(member);
     }
+
 }
