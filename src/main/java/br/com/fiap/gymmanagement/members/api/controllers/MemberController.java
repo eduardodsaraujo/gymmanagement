@@ -59,4 +59,5 @@ public class MemberController {
         MemberResponseDto response = memberApplicationService.update(dto, id);
         return ResponseEntity.status(200).body(response);
     }
+
 }
