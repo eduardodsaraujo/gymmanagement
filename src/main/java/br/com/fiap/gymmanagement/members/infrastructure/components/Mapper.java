@@ -21,6 +21,7 @@ public class Mapper {
         memberResponseDto.setPostalCode(member.getAddress().getPostalCode());
 
         return memberResponseDto;
+
     }
 
     public Member toEntity(MemberRequestDto memberRequestDto) {
